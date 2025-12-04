@@ -6,6 +6,8 @@
 
 namespace fs = std::filesystem;
 
+const std::string PROJECT_ROOT = "/home/justice/projects/preboing/";
+
 int main() {
     std::string levelPath = "resource/levels";
     std::vector<std::string> levels;
